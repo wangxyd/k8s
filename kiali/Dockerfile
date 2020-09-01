@@ -1,1 +1,1 @@
-FROM kiali/kiali:v1.22
+FROM quay.io/kiali/kiali:v1.22
