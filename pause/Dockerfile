@@ -1,1 +1,1 @@
-From registry.k8s.io/pause:3.7
+From registry.k8s.io/pause:3.8
