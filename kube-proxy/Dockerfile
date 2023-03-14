@@ -1,1 +1,1 @@
-From registry.k8s.io/kube-proxy:v1.25.7
+From registry.k8s.io/kube-proxy:v1.26.2
