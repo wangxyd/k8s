@@ -1,1 +1,1 @@
-FROM apache/skywalking-ui:9.3.0
+FROM apache/skywalking-ui:9.4.0
