@@ -1,1 +1,1 @@
-FROM flannelcni/flannel:v0.19.2
+FROM flannelcni/flannel:v0.17.0
