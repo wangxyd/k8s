@@ -1,1 +1,1 @@
-FROM flannelcni/flannel-cni-plugin:v1.1.0
+FROM flannelcni/flannel-cni-plugin:v1.0.1
