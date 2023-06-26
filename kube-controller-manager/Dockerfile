@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-controller-manager:v1.18.16
+From registry.k8s.io/kube-controller-manager:v1.26.5
