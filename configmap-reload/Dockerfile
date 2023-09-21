@@ -1,1 +1,1 @@
-FROM quay.io/coreos/configmap-reload:v0.0.1
+FROM ghcr.io/jimmidyson/configmap-reload:v0.11.1
