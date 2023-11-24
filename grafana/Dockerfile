@@ -1,1 +1,1 @@
-FROM grafana/grafana:7.0.5
+FROM grafana/grafana-enterprise:10.2.2-ubuntu
