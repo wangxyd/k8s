@@ -1,0 +1,1 @@
+FROM nacos/nacos-peer-finder-plugin:1.1
