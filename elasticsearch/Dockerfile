@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:8.11.1
+FROM elasticsearch:7.17.24
