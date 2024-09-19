@@ -1,1 +1,1 @@
-FROM kibana:7.17.24
+FROM kibana:7.10.2
