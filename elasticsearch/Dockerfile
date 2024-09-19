@@ -1,1 +1,1 @@
-FROM elastic/kibana:7.10.2
+FROM elastic/elasticsearch:7.10.2
